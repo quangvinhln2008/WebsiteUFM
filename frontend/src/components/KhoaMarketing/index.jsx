@@ -131,8 +131,7 @@ const KhoaMarketing = () => {
     <Script src="landing/lib/waypoints/waypoints.min.js"></Script>
     <Script src="landing/lib/owlcarousel/owl.carousel.min.js"></Script> 
     
-    {/* <!-- Template Javascript --> */}
-    
+    {/* <!-- Template Javascript --> */}    
     <Script src="landing/js/main.js"></Script>
     </>
   )
